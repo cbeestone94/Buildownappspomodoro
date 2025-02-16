@@ -22,7 +22,7 @@ body {
 h1 {
     font-size: 1.75rem;
     font-weight: 600;
-    color: #1e293b;
+    color: #001941;
     margin-bottom: 2.5rem;
     letter-spacing: -0.5px;
 }
@@ -31,7 +31,7 @@ h1 {
     font-size: 7.5rem;
     font-weight: 500;
     margin: 2.5rem 0;
-    color: #3b82f6;
+    color: #001941;
     letter-spacing: -4px;
     line-height: 1;
 }
@@ -76,13 +76,13 @@ h1 {
 }
 
 #startPause, #mode {
-    background-color: #3b82f6;
+    background-color: #001941;
     color: white;
     font-weight: 600;
 }
 
 #startPause:hover, #mode:hover {
-    background-color: #2563eb;
+    background-color: #001941;
 }
 
 #startPause.active {
